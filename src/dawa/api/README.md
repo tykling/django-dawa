@@ -1,3 +1,4 @@
+```python
 In [1]: from dawa.api import DAWA
 
 In [2]: dawa = DAWA()
@@ -174,4 +175,4 @@ Out[7]:
  'valglandsdel': {'href': 'https://dawa.aws.dk/valglandsdele/A',
   'bogstav': 'A',
   'navn': 'Hovedstaden'}}
-
+```
