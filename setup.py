@@ -17,6 +17,7 @@ setup(
     description='Django app for using the dawa API, including models for replicating the address data from https://dawa.aws.dk',
     long_description=README,
     url='https://github.com/tykling/django-dawa',
+    download_url='https://github.com/tykling/django-dawa/archive/v0.1.0.tar.gz',
     author='Thomas Steen Rasmussen',
     author_email='thomas@gibfest.dk',
     classifiers=[
